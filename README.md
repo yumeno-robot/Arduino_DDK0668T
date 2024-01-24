@@ -6,7 +6,7 @@
 
 
 ## Arduino_DDK0668T 説明
-* このファイルはArduinoと6CHモーターコントローラー(https://www.daisen-netstore.com/shopdetail/000000000074/)をUARTシリアル通信させ動かすプログラムになっています。
+* Arduinoと6CHモーターコントローラー(DDK0668T)をUARTシリアル通信させ動かすプログラムです。
 
 ## 必要なもの
 1.  Arduino
