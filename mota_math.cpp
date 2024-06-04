@@ -16,6 +16,7 @@ void MOTA::turn(int id_1, int id_2, int id_3, int id_4, int id_5, int id_6) {
   // 負
   // 100
   //////////
+  ////////
   if (id_1 == 0) {
     m1.concat("1F000");
   }
